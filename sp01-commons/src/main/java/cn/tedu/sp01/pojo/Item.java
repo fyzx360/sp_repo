@@ -13,5 +13,4 @@ public class Item {
 	private Integer number;
 	
 	//1111
-	//2222
 }
